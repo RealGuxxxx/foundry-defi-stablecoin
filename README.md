@@ -1,8 +1,12 @@
-1. Relative Stability: Anchored or Pegged to the US Dollar
-    1. Chainlink Pricefeed
-    2. Function to convert ETH & BTC to USD
-2. Stability Mechanism(Minting/Burning): Algorithmicly Decentralized
-    1. Users may only mint the stablecoin with enough collateral
-3. Collateral: Exogenous(Crypto)
-    1. wETH
-    2. wBTC
+# 稳定币项目
+
+## 1. 相对稳定性：锚定或挂钩美元
+   1. 使用 Chainlink 价格预言机
+   2. 提供将 ETH 和 BTC 转换为 USD 的功能
+
+## 2. 稳定机制（铸造/销毁）：算法去中心化
+   1. 用户只能在有足够抵押品的情况下铸造稳定币
+
+## 3. 抵押品：外源性（加密货币）
+   1. wETH（包装以太坊）
+   2. wBTC（包装比特币）
